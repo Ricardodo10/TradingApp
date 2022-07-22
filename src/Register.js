@@ -16,7 +16,7 @@ export default function Register() {
   </label>
   <label>
     Username: 
-    <input type="text" Uname="Uname" />
+    <input type="text" uname="uname" />
   </label>
   <label>
     E-mail: 
@@ -28,7 +28,7 @@ export default function Register() {
   </label>
   <label>
     Confirm Password
-    <input type="text" Cpassword="Cpassword" />
+    <input type="text" cpassword="cpassword" />
   </label>
 
   <input type="submit" value="Envoyer" />

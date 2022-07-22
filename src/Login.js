@@ -11,7 +11,7 @@ export default function Login() {
         </label>
         <label>
           Password:
-          <input type="text" Password="Password" />
+          <input type="text" password="password" />
         </label>
       </form>
     </div>
