@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <>
+      <Home/>
       <Register/>
       <Login/>
-      <Home/>
       </>
     </div>
   );

@@ -15,12 +15,21 @@ export default function Register() {
     <input type="text" lname="lname" />
   </label>
   <label>
-    Username
+    Username: 
     <input type="text" Uname="Uname" />
   </label>
-
-
-
+  <label>
+    E-mail: 
+    <input type="text" e-mail="e-mail" />
+  </label>
+  <label>
+    Password: 
+    <input type="text" password="password" />
+  </label>
+  <label>
+    Confirm Password
+    <input type="text" Cpassword="Cpassword" />
+  </label>
 
   <input type="submit" value="Envoyer" />
 </form>
